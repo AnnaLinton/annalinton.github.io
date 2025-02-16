@@ -38,15 +38,28 @@ redirect_from:
 * Linton A., Dimitrova V., Downing A., Wagland R., Glaser A., (under review), Weakly Supervised Text Classification on Free Text Comments in Patient-Reported Outcome Measures, Frontiers in Digital Health: Health Informatics
   
 ## Presentations
-* Cancer Research UK Data-driven cancer research conference | Manchester, UK | February 2024 | Evaluating Text Summarisation for Characterising Free Text Comments in Patient-Reported Outcome Measures
-* 7th UK Patient Reported Outcome Measures (PROMs) Research Conference: 'PROMs Across the Lifespan' | Sheffield, UK | June 2023| Automated Thematic Classification of Patient-Reported Outcome Free Text Comments Using Weakly Supervised Text Classification
-* Health Text Analytics Conference (HealTAC2023) | Manchester, UK | June 2023 | Weakly Supervised Classification of PROMs Free Text Comments | https://arxiv.org/abs/2308.06199
-* Health Text Analytics Conference (HealTAC2021) | PhD forum | Online | June 2021 |The Role of Free Text Comments in Adding Value to PROMs 
+* Cancer Research UK Data-driven cancer research conference (February 2024)
+  * Evaluating Text Summarisation for Characterising Free Text Comments in Patient-Reported Outcome Measures
+  * Manchester, UK
+* 7th UK Patient Reported Outcome Measures (PROMs) Research Conference: 'PROMs Across the Lifespan' (June 2023)
+  * Automated Thematic Classification of Patient-Reported Outcome Free Text Comments Using Weakly Supervised Text Classification
+  * Sheffield, UK
+* Health Text Analytics Conference (HealTAC2023) (June 2023)
+  * Weakly Supervised Classification of PROMs Free Text Comments
+  * https://arxiv.org/abs/2308.06199
+  * Manchester, UK   
+* Health Text Analytics Conference (HealTAC2021) - PhD forum (June 2021)
+  * The Role of Free Text Comments in Adding Value to PROMs
+  * Remote
 
 ## Research Presentation and Guest Speaker
-* AIHS seminar| Durham University | February 2024 | Guest Speaker | Using weakly supervised text classification on patient-reported free text comments.
-* Leeds Institute for Data Analytics seminar | January 2024 | Using weakly supervised text classification on patient free text comments.
-* Bowel Cancer Intelligence UK Patient-Public Group | Online | February 2024 | Using artificial intelligence techniques to analyse free-text comments in colorectal and prostate cancer PROMs.
+* AIHS seminar, Durham University (February 2024)
+  * Guest Speaker
+  * Using weakly supervised text classification on patient-reported free text comments.
+* Leeds Institute for Data Analytics seminar (January 2024)
+  * Using weakly supervised text classification on patient free text comments.
+* Bowel Cancer Intelligence UK Patient-Public Group (February 2024)
+  * Using artificial intelligence techniques to analyse free-text comments in colorectal and prostate cancer PROMs.
 
 ## Teaching 
 Teaching assistant on the following modules, including leading tutorials and facilitating lab sessions:
