@@ -35,10 +35,7 @@ redirect_from:
 
 
 ## Publications
-<!--  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
-Linton A., Dimitrova V., Downing A., Wagland R., Glaser A., (under review), Weakly Supervised Text Classification on Free Text Comments in Patient-Reported Outcome Measures, Frontiers in Digital Health: Health Informatics
+* Linton A., Dimitrova V., Downing A., Wagland R., Glaser A., (under review), Weakly Supervised Text Classification on Free Text Comments in Patient-Reported Outcome Measures, Frontiers in Digital Health: Health Informatics
   
 ## Presentations
 * Cancer Research UK Data-driven cancer research conference | Manchester, UK | February 2024 | Evaluating Text Summarisation for Characterising Free Text Comments in Patient-Reported Outcome Measures
@@ -46,15 +43,11 @@ Linton A., Dimitrova V., Downing A., Wagland R., Glaser A., (under review), Weak
 * Health Text Analytics Conference (HealTAC2023) | Manchester, UK | June 2023 | Weakly Supervised Classification of PROMs Free Text Comments | https://arxiv.org/abs/2308.06199
 * Health Text Analytics Conference (HealTAC2021) | PhD forum | Online | June 2021 |The Role of Free Text Comments in Adding Value to PROMs 
 
-<!--  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul> -->
 ## Research Presentation and Guest Speaker
 * AIHS seminar| Durham University | February 2024 | Guest Speaker | Using weakly supervised text classification on patient-reported free text comments.
 * Leeds Institute for Data Analytics seminar | January 2024 | Using weakly supervised text classification on patient free text comments.
 * Bowel Cancer Intelligence UK Patient-Public Group | Online | February 2024 | Using artificial intelligence techniques to analyse free-text comments in colorectal and prostate cancer PROMs.
 
-  
 ## Teaching 
 Teaching assistant on the following modules, including leading tutorials and facilitating lab sessions:
 * Programming for Data Science – Python (Masters)
@@ -73,4 +66,11 @@ Teaching assistant on the following modules, including leading tutorials and fac
 ## Recognition 
 * Listed on North Innovation Women List 2024. A supportive platform to recognise women in the North who are pushing the boundaries of innovation in their chosen fields. [link here](https://www.thenhsa.co.uk/2024/03/northinnovationwomen-2024-list-revealed/)
 
+
+<!--  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul> -->
+<!--  <ul>{% for post in site.talks reversed %}
+    {% include archive-single-talk-cv.html  %}
+  {% endfor %}</ul> -->
 
