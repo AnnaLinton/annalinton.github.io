@@ -67,7 +67,7 @@ Teaching assistant on the following modules, including leading tutorials and fac
 * ResCompLeedsCon committee member and organiser, University of Leeds (2022)
 * AI for Medical Diagnosis and Care Journal club coordinator, University of Leeds (2020 – 2022)
 * Student Representative for CDT in AI for Medical Diagnosis and Care, University of Leeds (2020-2021)
-* Public Engagement and Outreach [Activities]({{ site.baseurl }}{% link portfolio.html %}) (2020 - 2024)
+* Public Engagement and Outreach [Activities](portfolio.html}) (2020 - 2024)
 * Academic Mentor: The ‘ISLA’ gift – Provided academic mentoring to two first-year students in Biomedical Science and Computer Science over an academic year (2020 - 2021).
 
 ## Recognition 
