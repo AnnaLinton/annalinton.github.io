@@ -13,7 +13,7 @@ redirect_from:
 * PhD in AI for Medical Diagnosis and Care, University of Leeds, 2019 -2025 (awaiting viva)
 * Integrated MSc. in Neuroscience, University of Bristol, 2014 - 2018
 
-## Work experience
+## Work Experience
 * **2022: Data Science Intern** 
   * NHS England, UK
   * Develop a reusable pipeline to analyse textual survey data, centred on structural topic modelling. 
@@ -67,7 +67,7 @@ Teaching assistant on the following modules, including leading tutorials and fac
 * User Adaptive Intelligent Systems (Undergraduate)
 * Artificial Intelligence (Undergraduate)
  
-## Service and leadership
+## Service and Leadership
 * 100 Black Women Professors NOW cohort:  Accepted onto the 100 Black Women Professors Now Academic Cohort (2023). A national 12-month accelerator and change programme for UK higher education institutions. I partook in career development activities such as mentorship, career coaching, networking, and workshops and developed an awareness and initiated a network to navigate a higher education career. Whilst on the programme, I was motivated to confidently pursue a research trajectory whilst contributing to the wider academic community.
 * Student Representative for CDT AI for Medical Diagnosis and Care renewal panel
 * ResCompLeedsCon committee member and organiser, University of Leeds (2022)
