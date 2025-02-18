@@ -10,7 +10,7 @@ redirect_from:
 ===
 
 On its way:- 🏃
-- [ ] CV
+- [x] CV
 - [ ] PhD Overview
 - [ ] Publications and Presentations 
 
