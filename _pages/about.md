@@ -14,8 +14,24 @@ On its way:- 🏃
 - [ ] PhD Overview
 - [ ] Publications and Presentations 
 
-In the meantime, feel free to contact me via email, Linkedin or X. 
+Feel free to contact me via email, Linkedin or X. 
 
 ====
+In the meantime, here a some of my favourite resources.
 
-Thank you to [Academic Pages template](https://github.com/academicpages/academicpages.github.io) for the GitHub pages template to create this webpage.
+## Writing Resources
+- [Research Rabbit](https://researchrabbitapp.com/) - to find related papers by citations
+- [Connected Papers](https://www.connectedpapers.com/) - to find related papers
+- [Zotero](https://www.zotero.org/) - as a reference manager that intergrates well with web browsers, Word and Overleaf.
+
+## Coding
+- Github
+- VS Code
+
+## Producitvity Resources
+- [Notion](notion.so) - for everything
+- Google Calendar - for time blocking and general planning
+- [Pomofocus](https://pomofocus.io/) - for a pomodoro timer synced with my tasks
+- [Cuckoo](https://cuckoo.team/) - for when you need a bit positive peer pressure
+
+
