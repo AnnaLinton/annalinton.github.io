@@ -10,16 +10,21 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-* PhD in AI for Medical Diagnosis and Care, University of Leeds, 2019 -2025 (awaiting viva)
+* PhD in AI for Medical Diagnosis and Care, University of Leeds, 2019 -2025 
 * Integrated MSc. in Neuroscience, University of Bristol, 2014 - 2018
 
 ## Work Experience
+* **2025: Research Assistant** 
+  * University of Leeds, UK
+  * Develop a resource centre prototype. 
+  * [Project](https://edihubplus.ac.uk/)
+  * 
 * **2022: Data Science Intern** 
   * NHS England, UK
   * Develop a reusable pipeline to analyse textual survey data, centred on structural topic modelling. 
   * [Project](https://github.com/nhsx/stm-survey-text)
 
-* **2018-2019: Deployment Officer** 
+* **2018-2019: Project Support Officer** 
   * North-West London Collaboration of Clinical Commissioning Groups, UK
   * Provided essential programme management support for the development and deployment of whole systems integrated care dashboards, including diabetes and asthma.
   * [Project](https://www.nwlondonicb.nhs.uk/professionals/whole-systems-integrated-care-wsic?back_cID=409)
@@ -35,7 +40,7 @@ redirect_from:
 
 
 ## Publications
-* Linton A., Dimitrova V., Downing A., Wagland R., Glaser A., (under review), Weakly Supervised Text Classification on Free Text Comments in Patient-Reported Outcome Measures, Frontiers in Digital Health: Health Informatics
+* Linton A., Dimitrova V., Downing A., Wagland R., Glaser A., (2025), Weakly Supervised Text Classification on Free Text Comments in Patient-Reported Outcome Measures, Frontiers in Digital Health: Health Informatics
   
 ## Presentations
 * Cancer Research UK Data-driven cancer research conference (February 2024)
@@ -73,11 +78,11 @@ Teaching assistant on the following modules, including leading tutorials and fac
 * ResCompLeedsCon committee member and organiser, University of Leeds (2022)
 * AI for Medical Diagnosis and Care Journal club coordinator, University of Leeds (2020 – 2022)
 * Student Representative for CDT in AI for Medical Diagnosis and Care, University of Leeds (2020-2021)
-* Public Engagement and Outreach [Activities](portfolio.html}) (2020 - 2024)
+* Public Engagement and Outreach [Activities](portfolio.html) (2020 - 2024)
 * Academic Mentor: The ‘ISLA’ gift – Provided academic mentoring to two first-year students in Biomedical Science and Computer Science over an academic year (2020 - 2021).
 
 ## Recognition 
-* Listed on North Innovation Women List 2024. A supportive platform to recognise women in the North who are pushing the boundaries of innovation in their chosen fields. [link here](https://www.thenhsa.co.uk/2024/03/northinnovationwomen-2024-list-revealed/)
+* Listed on North Innovation Women List 2024. A supportive platform to recognise women in the North who are pushing the boundaries of innovation in their chosen fields. [Link here](https://www.thenhsa.co.uk/2024/03/northinnovationwomen-2024-list-revealed/)
 
 
 <!--  <ul>{% for post in site.publications reversed %}
