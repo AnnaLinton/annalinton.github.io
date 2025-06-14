@@ -17,6 +17,8 @@ I'm working on this website, to include more content. Things on their way:- 🏃
 - [x] CV
 - [x] Activities
 - [ ] PhD Overview
+
+
 Please feel free to reach out to me through email, Linkedin or X.
 In the meantime, here are some of my favourite resources.
 
