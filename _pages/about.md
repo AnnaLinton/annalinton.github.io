@@ -13,13 +13,11 @@ I hold a PhD in Artificial Intelligence for Medical Diagnosis and Care.
 I am an interdisciplinary AI researcher, specialising in applying natural language processing (NLP) to the health domain. I have  a strong track record of interdisciplinary collaboration and stakeholder engagement, and I am passionate about applying AI to bridge the gap between research and impactful real-world solutions.
 
 
-===
-I'm working on this website, to include more content. Things on its way:- 🏃
+I'm working on this website, to include more content. Things on their way:- 🏃
 - [x] CV
 - [x] Activities
 - [ ] PhD Overview
-Please feel free to reach out to me through email, Linkedin or X. 
-
+Please feel free to reach out to me through email, Linkedin or X.
 In the meantime, here are some of my favourite resources.
 
 ## Writing Resources
